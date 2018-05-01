@@ -1,6 +1,7 @@
 addArrowKeys();
 console.log("arrow keys added to page");
 
+
 function addArrowKeys(){
 
   var next = document.querySelector("a[class*='next'], a[rel*='next']");
